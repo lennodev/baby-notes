@@ -65,8 +65,8 @@
 - 影響
   - 不安和睡眠困難：腸絞痛可能導致嬰兒難以入睡，並表現出焦慮和不安的行為
 - 解決方法
-  - [飛機抱](https://www.youtube.com/shorts/NC44IIHEwdM)
-  - [包被](https://www.youtube.com/watch?v=pJCQf2Xxlrk&ab_channel=MountSinaiParentingCenter)
+  - [飛機抱影片](https://www.youtube.com/shorts/NC44IIHEwdM)
+  - [包被影片](https://www.youtube.com/watch?v=pJCQf2Xxlrk&ab_channel=MountSinaiParentingCenter)
 
 
 # 包皮

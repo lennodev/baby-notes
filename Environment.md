@@ -14,7 +14,7 @@
 
 # 2. 汽車坐椅
 ## 安裝
-- [車上安裝](https://www.youtube.com/watch?v=LVg7Tk4yOYE&ab_channel=WordofAdviceTV)
+- [車上安裝影片](https://www.youtube.com/watch?v=LVg7Tk4yOYE&ab_channel=WordofAdviceTV)
 - [說明書](https://nunababy.com/media/catalog/product/N/u/Nuna_PIPA_IM_0246D_ba8f.pdf)
 - **底坐安裝 - 方法1**
 ![調節 1](img/car-seat-3.jpg)

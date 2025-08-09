@@ -1,5 +1,5 @@
 # 急救
-- [人工呼吸展示](https://www.youtube.com/watch?v=n65HW1iJUuY&ab_channel=CincinnatiChildren%27s)
+- [人工呼吸展示影片](https://www.youtube.com/watch?v=n65HW1iJUuY&ab_channel=CincinnatiChildren%27s)
 - [詳細步驟](https://www.aboutkidshealth.ca/healthaz/na/cpr-in-a-baby-0-to-12-months-first-aid/?language=zh-Hant)
 
 # 心肺復蘇術

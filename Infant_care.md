@@ -86,8 +86,8 @@
 
 ---
 ## 洗澡步驟表 - 臍帶脫落後
-[正確步驟 1](https://www.youtube.com/watch?v=Y-QpUvB5gls&ab_channel=HumberRiverHealth)
-[正確步驟 2](https://www.youtube.com/watch?v=h5RdAft1Wjs&ab_channel=OttawaPublicHealth-Sant%C3%A9publiqueOttawa)
+- [洗澡步驟 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls&ab_channel=HumberRiverHealth)
+- [洗澡步驟 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs&ab_channel=OttawaPublicHealth-Sant%C3%A9publiqueOttawa)
 
 | 步驟編號 | 動作說明                                             | 用意          | 注意事項               |
 | ---- | ------------------------------------------------ | ----------- | ------------------ |
@@ -124,8 +124,8 @@
 
 ---
 ## 正確抱法
-- [抱法示範](https://www.youtube.com/watch?v=7yL9pnDP6jY&ab_channel=DadGood)
-- [飛機抱](https://www.youtube.com/shorts/NC44IIHEwdM)
+- [抱法示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY&ab_channel=DadGood)
+- [飛機抱影片](https://www.youtube.com/shorts/NC44IIHEwdM)
 ---
 
 ## 飛機抱 vs 橄欖球抱比較表
