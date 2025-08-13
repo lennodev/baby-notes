@@ -55,7 +55,8 @@
 
 ---
 ## 即飲水奶餵哺步驟表
-- [水奶餵哺步驟 影片](https://www.youtube.com/watch?v=qItsnLfPnaI）
+- [水奶餵哺步驟 1影片](https://www.youtube.com/watch?v=qItsnLfPnaI）)
+
 | 步驟編號 | 動作說明                    | 目的           | 注意事項               |
 | ---- | ----------------------- | ------------ | ------------------ |
 | 1    | 洗手（使用肥皂＋流水 20 秒）        | 確保清潔，預防細菌感染  | 可選用酒精搓手液加強清潔（外出時）  |
@@ -77,7 +78,8 @@
 
 ---
 ## 新生嬰兒拍嗝方法對照表
-- [拍嗝步驟 影片](https://www.youtube.com/watch?v=uuAXZjUgnog）
+- [拍嗝步驟 1影片](https://www.youtube.com/watch?v=uuAXZjUgnog)
+
 
 | 拍嗝方法              | 操作步驟                                                           | 適用情況               | 優點              | 注意事項                    |
 | ----------------- | -------------------------------------------------------------- | ------------------ | --------------- | ----------------------- |
@@ -89,8 +91,8 @@
 
 ---
 ## 洗澡步驟表 - 臍帶脫落後
-- [洗澡步驟 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls)
-- [洗澡步驟 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs)
+- [洗澡方法 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls)
+- [洗澡方法 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs)
 
 | 步驟編號 | 動作說明                                             | 用意          | 注意事項               |
 | ---- | ------------------------------------------------ | ----------- | ------------------ |
@@ -127,8 +129,8 @@
 
 ---
 ## 正確抱法
-- [抱法示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY)
-- [飛機抱影片](https://www.youtube.com/shorts/NC44IIHEwdM)
+- [4種抱法 示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY)
+- [飛機抱 影片](https://www.youtube.com/shorts/NC44IIHEwdM)
 ---
 
 ## 飛機抱 vs 橄欖球抱比較表
