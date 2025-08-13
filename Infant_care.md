@@ -55,7 +55,7 @@
 
 ---
 ## 即飲水奶餵哺步驟表
-- [水奶餵哺步驟 1影片](https://www.youtube.com/watch?v=qItsnLfPnaI）)
+- [▶️水奶餵哺步驟 1影片](https://www.youtube.com/watch?v=qItsnLfPnaI）)
 
 | 步驟編號 | 動作說明                    | 目的           | 注意事項               |
 | ---- | ----------------------- | ------------ | ------------------ |
@@ -78,7 +78,7 @@
 
 ---
 ## 新生嬰兒拍嗝方法對照表
-- [拍嗝步驟 1影片](https://www.youtube.com/watch?v=uuAXZjUgnog)
+- [▶️拍嗝步驟 1影片](https://www.youtube.com/watch?v=uuAXZjUgnog)
 
 
 | 拍嗝方法              | 操作步驟                                                           | 適用情況               | 優點              | 注意事項                    |
@@ -87,12 +87,12 @@
 | **坐懷式**<br>（腿上拍嗝） | 1. 將寶寶坐在你大腿上<br>2. 一手**托住下巴 - 不是喉嚨**支撐頭部<br>3. 身體微向前傾<br>4. 手呈空心狀由下至上，輕輕拍打背部 | 頭頸控制力較弱的新生兒也適用     | 頭部支撐較穩定、爸媽較不累   | 小心手指不要壓到喉嚨，容易嗆到         |
 | **側臥式**<br>（趴在腿上） | 1. 將寶寶肚子朝下趴在你大腿上<br>2. 頭略高過胸口，臉朝側<br>3. 另一手呈空心狀由下至上，輕輕拍打背部                   | 適合不易嗝出或吐奶頻繁寶寶      | 較易促進打嗝，也可幫助腸氣排出 | 肚子不可壓太扁，頭部需有空間轉側呼吸      |
 
-![拍嗝方法對照表](/img/after-formula-action.jpg)
+![▶️拍嗝方法對照表](/img/after-formula-action.jpg)
 
 ---
 ## 洗澡步驟表 - 臍帶脫落後
-- [洗澡方法 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls)
-- [洗澡方法 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs)
+- [▶️洗澡方法 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls)
+- [▶️洗澡方法 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs)
 
 | 步驟編號 | 動作說明                                             | 用意          | 注意事項               |
 | ---- | ------------------------------------------------ | ----------- | ------------------ |
@@ -129,8 +129,8 @@
 
 ---
 ## 正確抱法
-- [4種抱法 示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY)
-- [飛機抱 影片](https://www.youtube.com/shorts/NC44IIHEwdM)
+- [▶️4種抱法 示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY)
+- [▶️飛機抱 影片](https://www.youtube.com/shorts/NC44IIHEwdM)
 ---
 
 ## 飛機抱 vs 橄欖球抱比較表
