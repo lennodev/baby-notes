@@ -55,6 +55,7 @@
 
 ---
 ## 即飲水奶餵哺步驟表
+- [水奶餵哺步驟 影片](https://www.youtube.com/watch?v=qItsnLfPnaI）
 | 步驟編號 | 動作說明                    | 目的           | 注意事項               |
 | ---- | ----------------------- | ------------ | ------------------ |
 | 1    | 洗手（使用肥皂＋流水 20 秒）        | 確保清潔，預防細菌感染  | 可選用酒精搓手液加強清潔（外出時）  |
@@ -76,6 +77,8 @@
 
 ---
 ## 新生嬰兒拍嗝方法對照表
+- [拍嗝步驟 影片](https://www.youtube.com/watch?v=uuAXZjUgnog）
+
 | 拍嗝方法              | 操作步驟                                                           | 適用情況               | 優點              | 注意事項                    |
 | ----------------- | -------------------------------------------------------------- | ------------------ | --------------- | ----------------------- |
 | **豎抱式**<br>  | 1. 將寶寶直立靠在你肩膀上<br>2. 一手托住寶寶臀部<br>3. 手呈空心狀從下而上輕輕拍寶寶的後背               | 適用所有寶寶，尤其是餵奶後較乖的寶寶 | 自然姿勢、寶寶容易安靜     | **確保寶寶下巴高過肩膀**，拍打時手掌放鬆、節奏溫和 |
@@ -86,8 +89,8 @@
 
 ---
 ## 洗澡步驟表 - 臍帶脫落後
-- [洗澡步驟 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls&ab_channel=HumberRiverHealth)
-- [洗澡步驟 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs&ab_channel=OttawaPublicHealth-Sant%C3%A9publiqueOttawa)
+- [洗澡步驟 1影片](https://www.youtube.com/watch?v=Y-QpUvB5gls)
+- [洗澡步驟 2影片](https://www.youtube.com/watch?v=h5RdAft1Wjs)
 
 | 步驟編號 | 動作說明                                             | 用意          | 注意事項               |
 | ---- | ------------------------------------------------ | ----------- | ------------------ |
@@ -124,7 +127,7 @@
 
 ---
 ## 正確抱法
-- [抱法示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY&ab_channel=DadGood)
+- [抱法示範影片](https://www.youtube.com/watch?v=7yL9pnDP6jY)
 - [飛機抱影片](https://www.youtube.com/shorts/NC44IIHEwdM)
 ---
 
